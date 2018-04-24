@@ -4,7 +4,7 @@
 
 export const ENV = process.env.NODE_ENV;
 
-export const BASE_URL = 'http://cyb.ngrok.gznuode.cn/weilairensheng';
+export const BASE_URL = 'xxx.com';
 
 export const DEFAULT_OPTIONS = {
   method: 'GET',
